@@ -5,3 +5,5 @@ tensorflow
 matplotlib
 kagglehub
 mongita
+jupyter
+notebook
